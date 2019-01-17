@@ -1,1 +1,1 @@
-I created this website to demonstrate my HTMl and CSS skills. Open index.html to view!
+Omnifood is a dynamic website written in HTML5, CSS3, and Javascript. Open index.html to view!
